@@ -73,7 +73,7 @@ def pedir_nombre ():
     map(lambda x:x+1,lista))  # pedir defecto retorna una lista
     print(nueva_lista)
     #tengo una lista de alumnos que todos ellos aprobaron y pasan al tercer semestre, 
-    ## problema en mi lista todos estan con el segundo semestre por lo que tendremos que crear una solucion que cambie el campo de semes tre  de2 a 3
+    ## problema en mi lista todos estan con el segundo semestre por lo que tendremos que crear una solucion que cambie anthonny el campo de semes tre  de2 a 3
 
     "nombre":"abel",
     "edad":36,
