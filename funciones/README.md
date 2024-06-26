@@ -208,7 +208,7 @@ def num_menimo(1):
 
             #### averiguar sobre map(),filter(),reduce()
 
-       #### tarea 
+       #### tarea de 26/06/2024
        
         *MAP():*
 

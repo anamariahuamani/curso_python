@@ -43,3 +43,10 @@
 #print(numero_menor(*numeros))
 #print(numero_mayor(*numeros))
 #print(suma_numeros(*numeros))
+
+
+tarea 24/06/2024
+### crear una lista de alumnos con los siguientes campos
+# nombre, apellido,edad,celular,email
+## 1. actualizar los registros con un campo mas todas tendran el campoi de programa de estudios de enfermeria
+# 2. buscar el segundo registro y actualizar su edad a 50 años

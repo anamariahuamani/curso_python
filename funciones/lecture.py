@@ -88,8 +88,33 @@ def pedir_nombre ():
 "edad":50,
 "semestre":2
 },
-alumnos_actualizados=list(map(lambda el:el["semestre"]+1,lista_alumnos))
+
+
+def objeto(e)
+  if"semestre" in e:
+    e[semestre]=e¨["semestre"]+1
+    e["estudiantes"]="APSTI"
+          e
+        ]
+semestre_actualizados=list(map(objeto,lista_alumnos))
 print(semestre_actualizados)
+
+## FILTER
+#devolver los numeros pares de una lista
+lista=[4,8,2,5,7,10,6,5,3,20]
+nueva_lista=list(filter(lambda x:x%2==0,lista))
+ print(nueva-lista)
+ lista_alumnos=[
+    {
+        "nombre":"abel",
+        "edad":36,
+        "semestre":12
+    };{
+        "nombre":"antony",
+        "edad":"50,
+        "semestre":12
+        
+        
 
 
 
