@@ -50,3 +50,18 @@ tarea 24/06/2024
 # nombre, apellido,edad,celular,email
 ## 1. actualizar los registros con un campo mas todas tendran el campoi de programa de estudios de enfermeria
 # 2. buscar el segundo registro y actualizar su edad a 50 años
+
+Crear una lista de alumnos con los campos solicitados
+alumnos = [
+    {"nombre": "ana", "huamani": "ayquipa", "edad": 25, "celular": "987654321", "email": "anamariahuamaniayquipa23.com", "programa_estudios": "Enfermería"},
+    {"nombre": "María", "apellido": "Garcia", "edad": 30, "celular": "987654322", "email": "mariahuamani ayquipa23.com", "programa_estudios": "Enfermería"},
+    {"nombre": "Pedro", "apellido": "Lopez", "edad": 35, "celular": "987654323", "email": "anamariahuamaniayquipa23.com", "programa_estudios": "Enfermería"},
+]
+
+# Buscar el segundo registro y actualizar su edad a 50 años
+if len(alumnos) >= 2:
+    alumnos[1]["edad"] = 50
+
+# Imprimir la lista de alumnos actualizada
+for alumno in alumnos:
+    print(alumno)
