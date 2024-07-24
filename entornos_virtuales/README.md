@@ -25,4 +25,3 @@ Admin@DESKTOP-P8B0S93 MINGW64 ~/Desktop/curso_python/entornos_virtuales (main)
 $ pip list
 Package Version
 ------- -------
-pip     24.0
