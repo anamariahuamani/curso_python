@@ -1,4 +1,4 @@
-## trea de banco
+## treas de banco
 
 def-initi-(self nombre,dni,numero-de-cuenta,saldo,inicial)
 self.nombre=nombre
@@ -16,6 +16,8 @@ def get_status(self)
 
 maria=banco(ana"huamani"12233-34634-35646-)
 print (ana_retirar))
+
+
 
 ##agencias tareas
 
